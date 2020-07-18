@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sample03.Framework.Base.BaseAddress" Collapsed="true">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAACIAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Framework\Base\BaseAddress.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sample03.Framework.Base.BaseCity" Collapsed="true">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Base\BaseCity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sample03.Framework.Base.BaseCountry" Collapsed="true">
+    <Position X="3.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Base\BaseCountry.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sample03.Framework.Base.BaseOrder" Collapsed="true">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAwAQAAAAAAQAAAAAAAAAAACAQ=</HashCode>
+      <FileName>Framework\Base\BaseOrder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sample03.Framework.Base.BasePerson" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAgAAQABAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Base\BasePerson.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sample03.Framework.Base.BasePosition" Collapsed="true">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Base\BasePosition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sample03.Framework.Base.BaseProduct" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAQAAAAAAAAAgAASAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Base\BaseProduct.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sample03.LifeCycle.Address" Collapsed="true">
+    <Position X="9.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LifeCycle\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sample03.LifeCycle.City" Collapsed="true">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LifeCycle\City.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sample03.LifeCycle.Country" Collapsed="true">
+    <Position X="3.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LifeCycle\Country.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sample03.LifeCycle.Order" Collapsed="true">
+    <Position X="6.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LifeCycle\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sample03.LifeCycle.Person" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LifeCycle\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sample03.LifeCycle.Position" Collapsed="true">
+    <Position X="3.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LifeCycle\Position.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sample03.LifeCycle.Product" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LifeCycle\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sample03.Program" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Sample03.Framework.Interface.IAddress" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAACIAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Framework\Interface\IAddress.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Sample03.Framework.Interface.ICity" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Interface\ICity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Sample03.Framework.Interface.ICountry" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Interface\ICountry.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Sample03.Framework.Interface.IOrder" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAQAAAAAAQAAAAAAAAAAACAQ=</HashCode>
+      <FileName>Framework\Interface\IOrder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Sample03.Framework.Interface.IPerson" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAABAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Interface\IPerson.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Sample03.Framework.Interface.IPosition" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Interface\IPosition.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Sample03.Framework.Interface.IProduct" Collapsed="true">
+    <Position X="12.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAQAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Interface\IProduct.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Sample03.Framework.Interface.Infrastructure.ICodedEntity" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Interface\Infrastructure\ICodedEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Sample03.Framework.Interface.Infrastructure.IEntity" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Interface\Infrastructure\IEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Sample03.Framework.Interface.Infrastructure.INamedEntity" Collapsed="true">
+    <Position X="11.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Framework\Interface\Infrastructure\INamedEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
