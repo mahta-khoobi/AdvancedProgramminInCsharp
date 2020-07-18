@@ -1,0 +1,7 @@
+D:\VisualStudio2017Projects\Visual Studio 2017\Projects\Session09\Sample01\bin\Debug\Sample01.exe.config
+D:\VisualStudio2017Projects\Visual Studio 2017\Projects\Session09\Sample01\bin\Debug\Sample01.exe
+D:\VisualStudio2017Projects\Visual Studio 2017\Projects\Session09\Sample01\bin\Debug\Sample01.pdb
+D:\VisualStudio2017Projects\Visual Studio 2017\Projects\Session09\Sample01\obj\Debug\Sample01.csprojAssemblyReference.cache
+D:\VisualStudio2017Projects\Visual Studio 2017\Projects\Session09\Sample01\obj\Debug\Sample01.csproj.CoreCompileInputs.cache
+D:\VisualStudio2017Projects\Visual Studio 2017\Projects\Session09\Sample01\obj\Debug\Sample01.exe
+D:\VisualStudio2017Projects\Visual Studio 2017\Projects\Session09\Sample01\obj\Debug\Sample01.pdb
